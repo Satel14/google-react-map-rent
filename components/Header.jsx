@@ -11,19 +11,19 @@ import {
   BiHotel,
   BiSearch,
 } from "react-icons/bi";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { useState } from 'react';
-import Rent from './Rent';
 
 
-const Headers = ({ setType, setRatings, setCoordinates, setRent }) => {
+const Headers = ({ setType, setCoordinates }) => {
   const [autocomplete, setAutocomplete] = useState(null)
   const onLoad = (autoC) => setAutocomplete(autoC)
-
   const onPlaceChanged = () => {
     const lat = autocomplete.getPlace().geometry.location.lat()
     const lng = autocomplete.getPlace().geometry.location.lng()
     setCoordinates({ lat, lng })
   }
+
   return (
     <Flex
       position={'absolute'}
@@ -75,22 +75,7 @@ const Headers = ({ setType, setRatings, setCoordinates, setRent }) => {
             <BiHotel fontSize={25} />
             <Text ml={3} fontSize={16} fontWeight={500}>Hotel</Text>
           </Flex>
-          <Flex
-            alignItems={'center'}
-            justifyContent={'center'}
-            px={4}
-            py={2}
-            bg={'white'}
-            rounded={'full'}
-            ml={4}
-            shadow='lg'
-            cursor={'pointer'}
-            _hover={{ bg: 'gray.100' }}
-            transition={'ease-in-out'}
-            transitionDuration={'0.3s'}>
-            <button ml={3} fontSize={16} fontWeight={500}></button>
-            <Rent/>
-          </Flex>
+
         </Flex>
       </Flex>
     </Flex >
