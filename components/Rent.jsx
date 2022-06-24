@@ -10,7 +10,7 @@ function Rent() {
   const handleShow = () => setShow(true);
   const [lat, setLat] = useState("");
   const [lng, setLng] = useState("");
-  const [map,setMap] = useState()
+  const [map, setMap] = useState()
   return (
     <>
       <div
@@ -32,10 +32,10 @@ function Rent() {
         >
           <Form.Label>Ціна</Form.Label>
           <Form.Control as="textarea" placeholder='$150-$500' rows={3} />
-           <Form.Label >Довжина lat: {lat}</Form.Label>
-          <Form.Control onChange={(e) => setLat(e.target.value)} as="textarea" placeholder='50' rows={3} />
-          <Form.Label >Ширина lng: {lng}</Form.Label>
-          <Form.Control onChange={(e) => setLng(e.target.value)} as="textarea" placeholder='30' rows={3} />
+          <Form.Label >Місто: {lat}</Form.Label>
+          <Form.Control onChange={(e) => setLat(e.target.value)} as="textarea" placeholder='Kiev Oblast' rows={3} />
+          <Form.Label >Адреса готеля: {lng}</Form.Label>
+          <Form.Control onChange={(e) => setLng(e.target.value)} as="textarea" placeholder='88, Dzvinkove' rows={3} />
         </Form.Group>
         <Modal.Footer>
           <Button variant="secondary" onClick={handleClose}>

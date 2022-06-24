@@ -64,7 +64,7 @@ const PlaceDetail = ({ place }) => {
 
           {/* Ranking */}
           <Text fontSize={"sm"} fontWeight={"500"} color={"gray.400"}>
-            {place.ranking}
+          Адрес готеля: {place.location_id.slice(4, 6)}, {place.location_string} 
           </Text>
 
           {/* Open status */}
