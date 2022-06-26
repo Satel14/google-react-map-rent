@@ -11,6 +11,7 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
     const [isCard, setIsCard] = useState(false)
     const [cardData, setCardData] = useState(null)
     const [isRent, setIsRent] = useState(false)
+    const [added, setAdded] = useState(false)
     //popup
     const [showModal, setShow] = useState(false);
     const handleClose = () => setShow(false);
@@ -29,11 +30,15 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
         list[index][name] = value;
         setServiceList(list);
     };
+    const handleServiceRemove = (index) => {
+        const list = [...serviceList];
+        list.splice(index, 1);
+        setServiceList(list);
+    };
+
 
     return (
-
         <Box width={'full'} height={'full'}>
-
             <GoogleMapReact
                 bootstrapURLKeys={{ key: 'AIzaSyCWVsv8X_PlKn-Y8nMQhJGLvxA3QKy8MxY' }}
                 defaultCenter={coordinates}
@@ -48,7 +53,14 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
                 onChildClick={(child) => {
                     setCardData(places[child])
                     setIsCard(true)
-                }}>
+                }}
+                onClick={(child) => {
+                    setCardData(places[child])
+                    setIsRent(false) 
+                    setAdded(true)
+                }}
+            >
+
 
                 {places?.map((place, i) => (
                     <Box
@@ -113,8 +125,8 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
                             <BiX fontSize={30} />
                         </Box>
                     </Box>
-                )}
 
+                )}
                 {serviceList.length <= 1 ? true : <IoLocation color='blue' fontSize={50} />}
                 {isRent && (
                     <Box
@@ -151,7 +163,6 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
                                         </li>}
                                     </ul>
                                 ))}
-
                         </Text>
 
                         <Box
@@ -167,7 +178,7 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
                             justifyContent={"center"}
                             alignItems={"center"}
                             onClick={() => {
-                                setIsRent(false); 
+                                setIsRent(false);
 
                             }}
                         >
@@ -230,6 +241,11 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
                     ))}
 
                     <Modal.Footer>
+                        {serviceList.length !== 1 && (
+                            <Button variant="secondary" onClick={handleServiceRemove}>
+                                Reset
+                            </Button>
+                        )}
                         <Button variant="secondary" onClick={handleClose}>
                             Close
                         </Button>
@@ -238,6 +254,7 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
                                 handleClose();
                                 handleServiceAdd();
                                 setIsRent(true)
+                                setAdded(true)
                             }}>
                             Add Marker
                         </Button>
@@ -251,6 +268,46 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
                             </ul>
                         ))}
                 </Modal>
+            </Flex>
+            <Flex
+                bg={"whiteAlpha.900"}
+                px={4}
+                py={2}
+                mb={2}
+                shadow="lg"
+                direction={"column"}
+                alignItems={"start"}
+                justifyContent="space-between"
+            >
+                {added && (
+                    <div style={{ marginTop: '-11%', zIndex: 1, backgroundColor: 'white', border: '2px solid black', width: '22%', padding: '2%' }}
+                    >
+                        <Image
+                            top={'80.7%'}
+                            direction={'column'}
+                            width={'7.7%'}
+                            height={'15.6%'}
+                            position={'absolute'}
+                            left={'286px'}
+                            zIndex={1}
+                            overflow={'hidden'}
+                            px={2}
+                            src='https://explorelompoc.com/wp-content/uploads/2021/06/food_placeholder.jpg'
+                        />
+
+                        {serviceList &&
+                            serviceList.map((singleService, index) => (
+                                <ul key={index}>
+                                    {singleService.service && <div>{singleService.service}
+                                        {singleService.city && <div>{singleService.city}</div>}
+
+                                        {singleService.adress && <div>Адрес готеля: {singleService.adress}</div>}
+                                    </div>}
+                                </ul>
+                            ))}
+
+                    </div>
+                )}
             </Flex>
         </Box>
 

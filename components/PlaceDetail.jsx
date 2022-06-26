@@ -14,7 +14,7 @@ const PlaceDetail = ({ place }) => {
       shadow="lg"
       direction={"column"}
       alignItems={"start"}
-      justifyContent="space-between"
+      justifyContent="space-between"  
     >
       <Flex justifyContent={"space-between"} width="full">
         <Flex
@@ -38,7 +38,7 @@ const PlaceDetail = ({ place }) => {
             >
               {place.name}
             </Text>
-
+            
             <Text fontSize={"sm"} fontWeight={"500"} color={"gray.500"}>
               {place.price}
             </Text>
@@ -71,7 +71,7 @@ const PlaceDetail = ({ place }) => {
           <Text fontSize={"sm"} fontWeight={"500"} color={"gray.600"}>
             {place.open_now_text}
           </Text>
-
+          
           {/* dietary_restrictions */}
           {place?.dietary_restrictions && (
             <Flex width={"full"} flexWrap={"wrap"}>
