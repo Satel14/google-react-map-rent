@@ -1,0 +1,2252 @@
+[
+    {
+        "location_id": "17484249",
+        "name": "Dacha",
+        "latitude": "50.137123",
+        "longitude": "30.382446",
+        "num_reviews": "1",
+        "timezone": "Europe/Kiev",
+        "location_string": "Pogreby, Kiev Oblast",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.040302276611328",
+        "ranking_geo": "Pogreby",
+        "ranking_geo_id": "15410934",
+        "ranking_position": "1",
+        "ranking_denominator": "1299",
+        "ranking_category": "hotel",
+        "ranking": "#1 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "15.167299107493541",
+        "distance_string": null,
+        "bearing": "northeast",
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$43 - $51",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "87faca07-b751-4712-83d3-6b79ccac4b92"
+    },
+    {
+        "location_id": "6157773",
+        "name": "Lisotel",
+        "latitude": "49.680805",
+        "longitude": "30.418823",
+        "num_reviews": "23",
+        "timezone": "Europe/Kiev",
+        "location_string": "Rokytne, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/bf/0c/43/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/bf/0c/43/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1200",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/bf/0c/43/caption.jpg",
+                    "height": "780"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/bf/0c/43/caption.jpg",
+                    "height": "358"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/bf/0c/43/caption.jpg",
+                    "height": "163"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-01-11T09:44:50-0500",
+            "caption": "",
+            "id": "297733187",
+            "helpful_votes": "0",
+            "published_date": "2018-01-11T09:44:50-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.1261541843414307",
+        "ranking_geo": "Rokytne",
+        "ranking_geo_id": "12968978",
+        "ranking_position": "2",
+        "ranking_denominator": "1299",
+        "ranking_category": "other",
+        "ranking": "#2 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "cottage",
+        "subcategory_type_label": "Cottage",
+        "distance": "24.744489439112538",
+        "distance_string": null,
+        "bearing": "southeast",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$$$",
+        "price": "$107 - $339",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "b447965e-37a4-4777-b784-82b8619366d7"
+    },
+    {
+        "location_id": "14188866",
+        "name": "Perlyna Dzvinkova",
+        "latitude": "50.21685",
+        "longitude": "30.134748",
+        "num_reviews": "2",
+        "timezone": "Europe/Kiev",
+        "location_string": "Dzvinkove, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/56/44/20/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/56/44/20/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/56/44/20/caption.jpg",
+                    "height": "960"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/56/44/20/caption.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/56/44/20/caption.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-04-29T12:15:47-0400",
+            "caption": "",
+            "id": "391529504",
+            "helpful_votes": "0",
+            "published_date": "2019-04-29T12:15:47-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.0501983165740967",
+        "ranking_geo": "Dzvinkove",
+        "ranking_geo_id": "15042358",
+        "ranking_position": "3",
+        "ranking_denominator": "1299",
+        "ranking_category": "other",
+        "ranking": "#3 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "cottage",
+        "subcategory_type_label": "Cottage",
+        "distance": "15.87424814041236",
+        "distance_string": null,
+        "bearing": "north",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$34 - $44",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "0ad30592-74b0-4280-8328-1d93f71c8c35"
+    },
+    {
+        "location_id": "7811383",
+        "name": "Grebenky Hotel",
+        "latitude": "49.94429",
+        "longitude": "30.18105",
+        "num_reviews": "1",
+        "timezone": "Europe/Kiev",
+        "location_string": "Hrebinky, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-f/24/54/c0/a5/caption.jpg",
+                    "height": "137"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/24/54/c0/a5/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/24/54/c0/a5/caption.jpg",
+                    "height": "460"
+                },
+                "large": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/24/54/c0/a5/caption.jpg",
+                    "height": "460"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/24/54/c0/a5/caption.jpg",
+                    "height": "301"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-06-29T02:07:47-0400",
+            "caption": "",
+            "id": "609534117",
+            "helpful_votes": "0",
+            "published_date": "2022-06-29T02:07:47-0400",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.0132217407226562",
+        "ranking_geo": "Hrebinky",
+        "ranking_geo_id": "7813137",
+        "ranking_position": "4",
+        "ranking_denominator": "1299",
+        "ranking_category": "bb",
+        "ranking": "#4 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "small_hotel",
+        "subcategory_type_label": "Small Hotel",
+        "distance": "3.667910546231452",
+        "distance_string": null,
+        "bearing": "southeast",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$22",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "5eae5cf5-41e2-4a02-bfb5-5260b7b1013e"
+    },
+    {
+        "location_id": "3365446",
+        "name": "City Park Hotel Bila Tserkva",
+        "latitude": "49.79467",
+        "longitude": "30.11568",
+        "num_reviews": "51",
+        "timezone": "Europe/Kiev",
+        "location_string": "Bila Tserkva, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/5d/ed/00/city-park-hotel-bila.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/5d/ed/00/city-park-hotel-bila.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2397",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/5d/ed/00/city-park-hotel-bila.jpg",
+                    "height": "1600"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/5d/ed/00/city-park-hotel-bila.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/5d/ed/00/city-park-hotel-bila.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2020-06-01T03:46:36-0400",
+            "caption": "",
+            "id": "459140352",
+            "helpful_votes": "0",
+            "published_date": "2020-06-01T03:46:36-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.2024919986724854",
+        "ranking_geo": "Bila Tserkva",
+        "ranking_geo_id": "672772",
+        "ranking_position": "5",
+        "ranking_denominator": "1299",
+        "ranking_category": "hotel",
+        "ranking": "#5 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "13.350503230608819",
+        "distance_string": null,
+        "bearing": "south",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$65 - $79",
+        "hotel_class": "4.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "6371ed60-ea2d-4d0b-9ee3-925889260acd"
+    },
+    {
+        "location_id": "12997696",
+        "name": "Bobritsa Dacha",
+        "latitude": "50.347782",
+        "longitude": "30.173164",
+        "num_reviews": "10",
+        "timezone": "Europe/Kiev",
+        "location_string": "Bobrytsya, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/5e/d8/ec/bobritsa-dacha.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/5e/d8/ec/bobritsa-dacha.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "750",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/5e/d8/ec/bobritsa-dacha.jpg",
+                    "height": "1155"
+                },
+                "large": {
+                    "width": "292",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/5e/d8/ec/bobritsa-dacha.jpg",
+                    "height": "450"
+                },
+                "medium": {
+                    "width": "133",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/5e/d8/ec/bobritsa-dacha.jpg",
+                    "height": "205"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2020-11-27T09:16:44-0500",
+            "caption": "",
+            "id": "475977964",
+            "helpful_votes": "0",
+            "published_date": "2020-11-27T09:16:44-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.1955082416534424",
+        "ranking_geo": "Bobrytsya",
+        "ranking_geo_id": "13007567",
+        "ranking_position": "6",
+        "ranking_denominator": "1299",
+        "ranking_category": "bb",
+        "ranking": "#6 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "inn",
+        "subcategory_type_label": "Inn",
+        "distance": "24.99421923425098",
+        "distance_string": null,
+        "bearing": "north",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$97 - $102",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "950c2825-7298-4d6d-8ad6-4f40b9cc68d4"
+    },
+    {
+        "location_id": "294474",
+        "ad_position": "inline1",
+        "ad_size": "8X8",
+        "doubleclick_zone": "eu.ukraine.kiev",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Ukraine",
+                "abbrv": null,
+                "location_id": "294473"
+            }
+        ],
+        "detail": "0",
+        "page_type": "hotels",
+        "mob_ptype": "app_hotels"
+    },
+    {
+        "location_id": "12413681",
+        "name": "Hotel Banny Dvor",
+        "latitude": "49.826424",
+        "longitude": "30.422176",
+        "num_reviews": "1",
+        "timezone": "Europe/Kiev",
+        "location_string": "Uzyn, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-f/19/ad/dd/8f/2288783.jpg",
+                    "height": "137"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/19/ad/dd/8f/2288783.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/19/ad/dd/8f/2288783.jpg",
+                    "height": "460"
+                },
+                "large": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/19/ad/dd/8f/2288783.jpg",
+                    "height": "460"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/19/ad/dd/8f/2288783.jpg",
+                    "height": "301"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-10-17T13:10:39-0400",
+            "caption": "Hotel Banny Dvor",
+            "id": "430824847",
+            "helpful_votes": "0",
+            "published_date": "2019-10-17T13:10:39-0400",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "2.8154642581939697",
+        "ranking_geo": "Uzyn",
+        "ranking_geo_id": "7998465",
+        "ranking_position": "7",
+        "ranking_denominator": "1299",
+        "ranking_category": "other",
+        "ranking": "#7 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "specialty_hotel",
+        "subcategory_type_label": "Specialty Hotel",
+        "distance": "17.027061862048782",
+        "distance_string": null,
+        "bearing": "southeast",
+        "rating": "1.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$17",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "fb595e7b-be04-4d8a-bf32-75fe620bcbda"
+    },
+    {
+        "location_id": "3538399",
+        "name": "Maison Blanche Ecohouse",
+        "latitude": "50.13089",
+        "longitude": "30.23092",
+        "num_reviews": "4",
+        "timezone": "Europe/Kiev",
+        "location_string": "Mytnytsya, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/94/19/7b/maison-blanche.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/94/19/7b/maison-blanche.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/94/19/7b/maison-blanche.jpg",
+                    "height": "685"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/94/19/7b/maison-blanche.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/94/19/7b/maison-blanche.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2017-06-15T07:57:48-0400",
+            "caption": "",
+            "id": "261364091",
+            "helpful_votes": "0",
+            "published_date": "2017-06-15T07:57:48-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.031355619430542",
+        "ranking_geo": "Mytnytsya",
+        "ranking_geo_id": "12548569",
+        "ranking_position": "8",
+        "ranking_denominator": "1299",
+        "ranking_category": "bb",
+        "ranking": "#8 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "small_hotel",
+        "subcategory_type_label": "Small Hotel",
+        "distance": "10.839445054906644",
+        "distance_string": null,
+        "bearing": "northeast",
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$31 - $39",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "698979c8-0e79-4f79-a64e-92d5e220f4b3"
+    },
+    {
+        "location_id": "8615721",
+        "name": "Dubravushka Club",
+        "latitude": "50.05988",
+        "longitude": "29.88686",
+        "num_reviews": "8",
+        "timezone": "Europe/Kiev",
+        "location_string": "Fastiv, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/46/98/7a/club.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/46/98/7a/club.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/46/98/7a/club.jpg",
+                    "height": "768"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/46/98/7a/club.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/46/98/7a/club.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-12-12T08:19:36-0500",
+            "caption": "",
+            "id": "440834170",
+            "helpful_votes": "0",
+            "published_date": "2019-12-12T08:19:36-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.0781476497650146",
+        "ranking_geo": "Fastiv",
+        "ranking_geo_id": "8628120",
+        "ranking_position": "9",
+        "ranking_denominator": "1299",
+        "ranking_category": "other",
+        "ranking": "#9 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "cottage",
+        "subcategory_type_label": "Cottage",
+        "distance": "12.03204645371393",
+        "distance_string": null,
+        "bearing": "northwest",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$29",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "913b3abd-072a-4d62-a8df-401a6ebe27cc"
+    },
+    {
+        "location_id": "12695804",
+        "name": "Lepsza Sadyba",
+        "latitude": "49.79147",
+        "longitude": "30.12047",
+        "num_reviews": "5",
+        "timezone": "Europe/Kiev",
+        "location_string": "Bila Tserkva, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/bc/b9/47/photo0jpg.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/bc/b9/47/photo0jpg.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/bc/b9/47/photo0jpg.jpg",
+                    "height": "1280"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-p/15/bc/b9/47/photo0jpg.jpg",
+                    "height": "550"
+                },
+                "medium": {
+                    "width": "450",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/bc/b9/47/photo0jpg.jpg",
+                    "height": "450"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-12-15T17:42:17-0500",
+            "caption": "",
+            "id": "364689735",
+            "helpful_votes": "0",
+            "published_date": "2018-12-15T17:42:17-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.043231248855591",
+        "ranking_geo": "Bila Tserkva",
+        "ranking_geo_id": "672772",
+        "ranking_position": "10",
+        "ranking_denominator": "1299",
+        "ranking_category": "bb",
+        "ranking": "#10 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "bed_and_breakfast",
+        "subcategory_type_label": "Bed and Breakfast",
+        "distance": "13.561091524115099",
+        "distance_string": null,
+        "bearing": "south",
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$37",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "c65697d8-9dfe-4f4b-b58d-a9b7b37ab83d"
+    },
+    {
+        "location_id": "15272688",
+        "name": "Country Complex Dacha",
+        "latitude": "50.137268",
+        "longitude": "30.383038",
+        "num_reviews": "5",
+        "timezone": "Europe/Kiev",
+        "location_string": "Pogreby, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/15/6d/90/90/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/6d/90/90/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1731",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/15/6d/90/90/caption.jpg",
+                    "height": "1155"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/6d/90/90/caption.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/15/6d/90/90/caption.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-11-18T12:59:03-0500",
+            "caption": "Загородный гостинично-ресторанный комплекс\"Эко Дача\"",
+            "id": "359501968",
+            "helpful_votes": "0",
+            "published_date": "2018-11-18T12:59:03-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.1216933727264404",
+        "ranking_geo": "Pogreby",
+        "ranking_geo_id": "15410934",
+        "ranking_position": "11",
+        "ranking_denominator": "1299",
+        "ranking_category": "other",
+        "ranking": "#11 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "tourist_base",
+        "subcategory_type_label": "Tourist Base",
+        "distance": "15.193316162079839",
+        "distance_string": null,
+        "bearing": "northeast",
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$32",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "83cb9110-1f47-4695-a95e-dd2f5b7c1cbb"
+    },
+    {
+        "location_id": "8381945",
+        "name": "Chalet Motel",
+        "latitude": "50.2975",
+        "longitude": "30.36384",
+        "num_reviews": "11",
+        "timezone": "Europe/Uzhgorod",
+        "location_string": "Hankovytsya, Zakarpattia Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/42/b9/a5/chalet.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/42/b9/a5/chalet.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/42/b9/a5/chalet.jpg",
+                    "height": "1500"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/42/b9/a5/chalet.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/42/b9/a5/chalet.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2015-07-02T07:17:59-0400",
+            "caption": "Вид с дороги",
+            "id": "138590629",
+            "helpful_votes": "0",
+            "published_date": "2015-07-02T09:08:40-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.0470926761627197",
+        "ranking_geo": "Hankovytsya",
+        "ranking_geo_id": "3835199",
+        "ranking_position": "12",
+        "ranking_denominator": "1299",
+        "ranking_category": "bb",
+        "ranking": "#12 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "inn",
+        "subcategory_type_label": "Inn",
+        "distance": "23.769180129669753",
+        "distance_string": null,
+        "bearing": "northeast",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$30 - $34",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "002a64f4-b121-46b4-9d55-6265c71cfeef"
+    },
+    {
+        "location_id": "17499864",
+        "name": "Art Hotel Dynastiya",
+        "latitude": "49.797405",
+        "longitude": "30.11119",
+        "num_reviews": "2",
+        "timezone": "Europe/Kiev",
+        "location_string": "Bila Tserkva, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-f/24/3d/eb/fe/caption.jpg",
+                    "height": "137"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/24/3d/eb/fe/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/24/3d/eb/fe/caption.jpg",
+                    "height": "460"
+                },
+                "large": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/24/3d/eb/fe/caption.jpg",
+                    "height": "460"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/24/3d/eb/fe/caption.jpg",
+                    "height": "301"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-06-26T00:44:28-0400",
+            "caption": "",
+            "id": "608037886",
+            "helpful_votes": "0",
+            "published_date": "2022-06-26T00:44:28-0400",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.017167806625366",
+        "ranking_geo": "Bila Tserkva",
+        "ranking_geo_id": "672772",
+        "ranking_position": "13",
+        "ranking_denominator": "1299",
+        "ranking_category": "hotel",
+        "ranking": "#13 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "13.174846865708927",
+        "distance_string": null,
+        "bearing": "south",
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$35 - $39",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "f74a58f4-c3b2-4950-99c6-337e1d46ddfa"
+    },
+    {
+        "location_id": "1308031",
+        "name": "Hotel Central",
+        "latitude": "49.79531",
+        "longitude": "30.109423",
+        "num_reviews": "12",
+        "timezone": "Europe/Kiev",
+        "location_string": "Bila Tserkva, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/66/21/32/getlstd-property-photo.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/66/21/32/getlstd-property-photo.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/66/21/32/getlstd-property-photo.jpg",
+                    "height": "667"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/66/21/32/getlstd-property-photo.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/66/21/32/getlstd-property-photo.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-05-04T16:58:49-0400",
+            "caption": "getlstd_property_photo",
+            "id": "392569138",
+            "helpful_votes": "0",
+            "published_date": "2019-05-04T16:58:49-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.0739424228668213",
+        "ranking_geo": "Bila Tserkva",
+        "ranking_geo_id": "672772",
+        "ranking_position": "14",
+        "ranking_denominator": "1299",
+        "ranking_category": "bb",
+        "ranking": "#14 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "inn",
+        "subcategory_type_label": "Inn",
+        "distance": "13.325289982657704",
+        "distance_string": null,
+        "bearing": "south",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$22 - $24",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "dbbd51f1-a799-489d-a480-e991d78acb9b"
+    },
+    {
+        "location_id": "294474",
+        "ad_position": "inline2",
+        "ad_size": "8X8",
+        "doubleclick_zone": "eu.ukraine.kiev",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Ukraine",
+                "abbrv": null,
+                "location_id": "294473"
+            }
+        ],
+        "detail": "0",
+        "page_type": "hotels",
+        "mob_ptype": "app_hotels"
+    },
+    {
+        "location_id": "12535865",
+        "name": "Park-Hotel Villa Vita",
+        "latitude": "50.304222",
+        "longitude": "30.374365",
+        "num_reviews": "10",
+        "timezone": "Europe/Kiev",
+        "location_string": "Vita Pochtovaya, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/71/ed/78/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/71/ed/78/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/71/ed/78/caption.jpg",
+                    "height": "681"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/71/ed/78/caption.jpg",
+                    "height": "365"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/71/ed/78/caption.jpg",
+                    "height": "166"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2017-12-05T07:52:01-0500",
+            "caption": "Коттедж Полулюкс",
+            "id": "292679032",
+            "helpful_votes": "0",
+            "published_date": "2017-12-05T07:52:01-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.0703747272491455",
+        "ranking_geo": "Vita Pochtovaya",
+        "ranking_geo_id": "8671723",
+        "ranking_position": "15",
+        "ranking_denominator": "1299",
+        "ranking_category": "other",
+        "ranking": "#15 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "cottage",
+        "subcategory_type_label": "Cottage",
+        "distance": "24.390370552816783",
+        "distance_string": null,
+        "bearing": "northeast",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$61 - $101",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "3ce1fd27-91d2-493f-9678-29a375c0d1a5"
+    },
+    {
+        "location_id": "12975709",
+        "name": "Hotel Djerelo",
+        "latitude": "50.17709",
+        "longitude": "30.31992",
+        "num_reviews": "2",
+        "timezone": "Europe/Kiev",
+        "location_string": "Mala Buhaivka, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/82/cd/1d/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/82/cd/1d/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "960",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/82/cd/1d/caption.jpg",
+                    "height": "613"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/82/cd/1d/caption.jpg",
+                    "height": "351"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/82/cd/1d/caption.jpg",
+                    "height": "160"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-05-14T02:25:09-0400",
+            "caption": "",
+            "id": "394448157",
+            "helpful_votes": "0",
+            "published_date": "2019-05-14T02:25:09-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "2.923719644546509",
+        "ranking_geo": "Mala Buhaivka",
+        "ranking_geo_id": "13128502",
+        "ranking_position": "16",
+        "ranking_denominator": "1299",
+        "ranking_category": "bb",
+        "ranking": "#16 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "small_hotel",
+        "subcategory_type_label": "Small Hotel",
+        "distance": "15.527386883285196",
+        "distance_string": null,
+        "bearing": "northeast",
+        "rating": "3.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$37",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "b0276dea-1078-4ed6-9d93-3ccc1fd31ac5"
+    },
+    {
+        "location_id": "7278367",
+        "name": "Hotel Ekvator",
+        "latitude": "50.3307",
+        "longitude": "30.29072",
+        "num_reviews": "2",
+        "timezone": "Europe/Kiev",
+        "location_string": "Boyarka, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-f/19/ac/98/1e/1193845.jpg",
+                    "height": "137"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/19/ac/98/1e/1193845.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/19/ac/98/1e/1193845.jpg",
+                    "height": "460"
+                },
+                "large": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/19/ac/98/1e/1193845.jpg",
+                    "height": "460"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/19/ac/98/1e/1193845.jpg",
+                    "height": "301"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-10-17T12:19:34-0400",
+            "caption": "Hotel Ekvator",
+            "id": "430741534",
+            "helpful_votes": "0",
+            "published_date": "2019-10-17T12:19:34-0400",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.0290067195892334",
+        "ranking_geo": "Boyarka",
+        "ranking_geo_id": "1647545",
+        "ranking_position": "17",
+        "ranking_denominator": "1299",
+        "ranking_category": "bb",
+        "ranking": "#17 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "small_hotel",
+        "subcategory_type_label": "Small Hotel",
+        "distance": "24.756734354372682",
+        "distance_string": null,
+        "bearing": "north",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "b768c2ca-d838-40f7-8a76-9f18868af45f"
+    },
+    {
+        "location_id": "13323331",
+        "name": "Otel' Sobornyy",
+        "latitude": "49.792847",
+        "longitude": "30.111609",
+        "num_reviews": "3",
+        "timezone": "Europe/Kiev",
+        "location_string": "Bila Tserkva, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/ab/72/0d/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/ab/72/0d/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/ab/72/0d/caption.jpg",
+                    "height": "1500"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/ab/72/0d/caption.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/12/ab/72/0d/caption.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-04-17T14:07:34-0400",
+            "caption": "Студия-люкс \"Панорама\"",
+            "id": "313225741",
+            "helpful_votes": "0",
+            "published_date": "2018-04-17T14:07:34-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.0213615894317627",
+        "ranking_geo": "Bila Tserkva",
+        "ranking_geo_id": "672772",
+        "ranking_position": "18",
+        "ranking_denominator": "1299",
+        "ranking_category": "bb",
+        "ranking": "#18 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "small_hotel",
+        "subcategory_type_label": "Small Hotel",
+        "distance": "13.488006237555332",
+        "distance_string": null,
+        "bearing": "south",
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$59",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "667b6577-198c-439a-a62f-890ff2e6b4cd"
+    },
+    {
+        "location_id": "8007080",
+        "name": "Cafe Motel Megasport",
+        "latitude": "49.82761",
+        "longitude": "30.421223",
+        "num_reviews": "1",
+        "timezone": "Europe/Kiev",
+        "location_string": "Uzyn, Kiev Oblast",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.0153121948242188",
+        "ranking_geo": "Uzyn",
+        "ranking_geo_id": "7998465",
+        "ranking_position": "19",
+        "ranking_denominator": "1299",
+        "ranking_category": "bb",
+        "ranking": "#19 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "inn",
+        "subcategory_type_label": "Inn",
+        "distance": "16.941179319038035",
+        "distance_string": null,
+        "bearing": "southeast",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "8c3afc50-64c0-4ab2-87ab-24567fba6871"
+    },
+    {
+        "location_id": "6599754",
+        "name": "Hostynnyi Dvir Hotel",
+        "latitude": "49.799545",
+        "longitude": "30.113682",
+        "num_reviews": "2",
+        "timezone": "Europe/Kiev",
+        "location_string": "Bila Tserkva, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/83/b3/b3/caption.jpg",
+                    "height": "141"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/83/b3/b3/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/83/b3/b3/caption.jpg",
+                    "height": "1127"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/0d/83/b3/b3/caption.jpg",
+                    "height": "577"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/83/b3/b3/caption.jpg",
+                    "height": "310"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2016-11-03T15:25:54-0400",
+            "caption": "",
+            "id": "226735027",
+            "helpful_votes": "0",
+            "published_date": "2016-11-03T15:25:54-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "3.0",
+        "ranking_geo": "Bila Tserkva",
+        "ranking_geo_id": "672772",
+        "ranking_position": "20",
+        "ranking_denominator": "1299",
+        "ranking_category": "bb",
+        "ranking": "#20 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "small_hotel",
+        "subcategory_type_label": "Small Hotel",
+        "distance": "13.01943076513213",
+        "distance_string": null,
+        "bearing": "south",
+        "rating": "3.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$7 - $12",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "c641d656-9336-4df3-be7a-0c49ef9c7f6a"
+    },
+    {
+        "location_id": "6728160",
+        "name": "Klark Hotel",
+        "latitude": "49.80679",
+        "longitude": "30.10521",
+        "num_reviews": "2",
+        "timezone": "Europe/Kiev",
+        "location_string": "Bila Tserkva, Kiev Oblast",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "2.934817314147949",
+        "ranking_geo": "Bila Tserkva",
+        "ranking_geo_id": "672772",
+        "ranking_position": "21",
+        "ranking_denominator": "1299",
+        "ranking_category": "bb",
+        "ranking": "#21 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "small_hotel",
+        "subcategory_type_label": "Small Hotel",
+        "distance": "12.55103098925787",
+        "distance_string": null,
+        "bearing": "south",
+        "rating": "2.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "593243dc-62eb-4aa1-ad32-1b92512a1bb4"
+    },
+    {
+        "location_id": "17462609",
+        "name": "Rikabar Restaurant & Nature",
+        "latitude": "49.7876",
+        "longitude": "30.11182",
+        "num_reviews": "1",
+        "timezone": "Europe/Kiev",
+        "location_string": "Bila Tserkva, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-f/24/4c/ba/9d/caption.jpg",
+                    "height": "137"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/24/4c/ba/9d/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/24/4c/ba/9d/caption.jpg",
+                    "height": "460"
+                },
+                "large": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/24/4c/ba/9d/caption.jpg",
+                    "height": "460"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/24/4c/ba/9d/caption.jpg",
+                    "height": "301"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-06-27T23:34:40-0400",
+            "caption": "",
+            "id": "609008285",
+            "helpful_votes": "0",
+            "published_date": "2022-06-27T23:34:40-0400",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "2.8841328620910645",
+        "ranking_geo": "Bila Tserkva",
+        "ranking_geo_id": "672772",
+        "ranking_position": "22",
+        "ranking_denominator": "1299",
+        "ranking_category": "bb",
+        "ranking": "#22 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "inn",
+        "subcategory_type_label": "Inn",
+        "distance": "13.849297798034172",
+        "distance_string": null,
+        "bearing": "south",
+        "rating": "2.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$51",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "3a3e2adc-b672-4b9f-ada1-6604e151edf1"
+    },
+    {
+        "location_id": "294474",
+        "ad_position": "inline3",
+        "ad_size": "8X8",
+        "doubleclick_zone": "eu.ukraine.kiev",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Ukraine",
+                "abbrv": null,
+                "location_id": "294473"
+            }
+        ],
+        "detail": "0",
+        "page_type": "hotels",
+        "mob_ptype": "app_hotels"
+    },
+    {
+        "location_id": "8470872",
+        "name": "Zelyonaya Roscha",
+        "latitude": "49.82029",
+        "longitude": "30.1054",
+        "num_reviews": "1",
+        "timezone": "Europe/Kiev",
+        "location_string": "Sviatohirsk, Donetsk Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/55/43/91/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/55/43/91/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/55/43/91/caption.jpg",
+                    "height": "853"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/1a/55/43/91/caption.jpg",
+                    "height": "683"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/55/43/91/caption.jpg",
+                    "height": "367"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-12-19T05:49:48-0500",
+            "caption": "Вид на кровать.",
+            "id": "441795473",
+            "helpful_votes": "0",
+            "published_date": "2019-12-19T05:49:48-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "2.8764095306396484",
+        "ranking_geo": "Sviatohirsk",
+        "ranking_geo_id": "2646097",
+        "ranking_position": "23",
+        "ranking_denominator": "1299",
+        "ranking_category": "other",
+        "ranking": "#23 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "lodge",
+        "subcategory_type_label": "Lodge",
+        "distance": "11.62120289710326",
+        "distance_string": null,
+        "bearing": "south",
+        "rating": "2.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "833c3779-bb6d-42c2-b6ed-24ad5446452c"
+    },
+    {
+        "location_id": "1580274",
+        "name": "Hotel Kyiv",
+        "latitude": "49.796772",
+        "longitude": "30.114471",
+        "num_reviews": "8",
+        "timezone": "Europe/Kiev",
+        "location_string": "Bila Tserkva, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/92/4f/78/caption.jpg",
+                    "height": "141"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/92/4f/78/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/92/4f/78/caption.jpg",
+                    "height": "720"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/13/92/4f/78/caption.jpg",
+                    "height": "576"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/92/4f/78/caption.jpg",
+                    "height": "309"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-07-04T13:50:35-0400",
+            "caption": "",
+            "id": "328355704",
+            "helpful_votes": "0",
+            "published_date": "2018-07-04T13:50:35-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "2.5643603801727295",
+        "ranking_geo": "Bila Tserkva",
+        "ranking_geo_id": "672772",
+        "ranking_position": "24",
+        "ranking_denominator": "1299",
+        "ranking_category": "hotel",
+        "ranking": "#24 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "13.208608645366835",
+        "distance_string": null,
+        "bearing": "south",
+        "rating": "2.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "9ade1d52-63b8-48de-a5d8-e257f06b51a2"
+    },
+    {
+        "location_id": "10328208",
+        "name": "Gvozdoff",
+        "latitude": "50.23886",
+        "longitude": "30.48347",
+        "num_reviews": "10",
+        "timezone": "Europe/Kiev",
+        "location_string": "Hvozdiv, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/4f/e6/a4/gvozdov.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/4f/e6/a4/gvozdov.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "750",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/4f/e6/a4/gvozdov.jpg",
+                    "height": "500"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/4f/e6/a4/gvozdov.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/4f/e6/a4/gvozdov.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2017-02-01T14:04:02-0500",
+            "caption": "",
+            "id": "240117412",
+            "helpful_votes": "0",
+            "published_date": "2017-02-01T14:04:02-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "2.4774863719940186",
+        "ranking_geo": "Hvozdiv",
+        "ranking_geo_id": "8682104",
+        "ranking_position": "25",
+        "ranking_denominator": "1299",
+        "ranking_category": "bb",
+        "ranking": "#25 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "small_hotel",
+        "subcategory_type_label": "Small Hotel",
+        "distance": "23.33185790380973",
+        "distance_string": null,
+        "bearing": "northeast",
+        "rating": "2.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "943d2545-2ee2-47c7-a396-8577ed6f4ba5"
+    },
+    {
+        "location_id": "7694091",
+        "name": "Villa Gogol",
+        "latitude": "50.10508",
+        "longitude": "30.28494",
+        "num_reviews": "0",
+        "timezone": "Europe/Kiev",
+        "location_string": "Kodaky, Kiev Oblast",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "ranking_position": "26",
+        "ranking_denominator": "1299",
+        "ranking": "#26 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "distance": "10.577445377951575",
+        "distance_string": null,
+        "bearing": "northeast",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "5e938ca3-bee2-40b9-a58a-6417f151fc13"
+    },
+    {
+        "location_id": "17381193",
+        "name": "Family Eco Club Rulikov",
+        "latitude": "50.1329",
+        "longitude": "30.203156",
+        "num_reviews": "22",
+        "timezone": "Europe/Kiev",
+        "location_string": "Rulykiv, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/39/75/53/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/39/75/53/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/39/75/53/caption.jpg",
+                    "height": "853"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/39/75/53/caption.jpg",
+                    "height": "683"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/39/75/53/caption.jpg",
+                    "height": "367"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-01-25T06:32:00-0500",
+            "caption": "Наш домик на праздники",
+            "id": "372864339",
+            "helpful_votes": "0",
+            "published_date": "2019-01-25T06:32:00-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "2.40501070022583",
+        "ranking_geo": "Rulykiv",
+        "ranking_geo_id": "17382641",
+        "ranking_position": "27",
+        "ranking_denominator": "1299",
+        "ranking_category": "other",
+        "ranking": "#27 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "cottage",
+        "subcategory_type_label": "Cottage",
+        "distance": "10.538790413454453",
+        "distance_string": null,
+        "bearing": "north",
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "b40f27ec-c723-4fdd-a099-8f1d1a88aeac"
+    },
+    {
+        "location_id": "10679089",
+        "name": "Naturalist",
+        "latitude": "50.067978",
+        "longitude": "30.670912",
+        "num_reviews": "15",
+        "timezone": "Europe/Kiev",
+        "location_string": "Obukhiv, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/6c/a1/9b/photo2jpg.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/6c/a1/9b/photo2jpg.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/6c/a1/9b/photo2jpg.jpg",
+                    "height": "960"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/6c/a1/9b/photo2jpg.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/6c/a1/9b/photo2jpg.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-07-22T13:32:03-0400",
+            "caption": "",
+            "id": "409772443",
+            "helpful_votes": "0",
+            "published_date": "2019-07-22T13:32:03-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "raw_ranking": "2.0061283111572266",
+        "ranking_geo": "Obukhiv",
+        "ranking_geo_id": "7022961",
+        "ranking_position": "28",
+        "ranking_denominator": "1299",
+        "ranking_category": "other",
+        "ranking": "#28 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "subcategory_type": "specialty_inn",
+        "subcategory_type_label": "Specialty Inn",
+        "distance": "24.546575637170612",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "1.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$20 - $30",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "3933796e-4f1b-427d-a39b-b11f36e12c72"
+    },
+    {
+        "location_id": "19917275",
+        "name": "Hotel",
+        "latitude": "49.80063",
+        "longitude": "30.187113",
+        "num_reviews": "0",
+        "timezone": "Europe/Kiev",
+        "location_string": "Bila Tserkva, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-f/24/4f/7e/36/caption.jpg",
+                    "height": "137"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/24/4f/7e/36/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/24/4f/7e/36/caption.jpg",
+                    "height": "460"
+                },
+                "large": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/24/4f/7e/36/caption.jpg",
+                    "height": "460"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/24/4f/7e/36/caption.jpg",
+                    "height": "301"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-06-28T01:52:15-0400",
+            "caption": "",
+            "id": "609189430",
+            "helpful_votes": "0",
+            "published_date": "2022-06-28T01:52:15-0400",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "ranking_position": "29",
+        "ranking_denominator": "1299",
+        "ranking": "#29 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "distance": "13.139644370248234",
+        "distance_string": null,
+        "bearing": "south",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$24",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "ea9eecd9-29c2-4f12-8a6b-bff8227e1b85"
+    },
+    {
+        "location_id": "9784538",
+        "name": "Babai Sadyba",
+        "latitude": "50.16987",
+        "longitude": "30.30731",
+        "num_reviews": "0",
+        "timezone": "Europe/Kiev",
+        "location_string": "Vasylkiv, Kiev Oblast",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-l/24/55/bb/5c/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/24/55/bb/5c/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/24/55/bb/5c/caption.jpg",
+                    "height": "397"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/24/55/bb/5c/caption.jpg",
+                    "height": "397"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/24/55/bb/5c/caption.jpg",
+                    "height": "397"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-06-29T03:19:35-0400",
+            "caption": "",
+            "id": "609598300",
+            "helpful_votes": "0",
+            "published_date": "2022-06-29T03:19:35-0400",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Kyiv (Kiev) Places to Stay",
+        "ranking_position": "30",
+        "ranking_denominator": "1299",
+        "ranking": "#30 Best Value of 1,299 places to stay in Kyiv (Kiev)",
+        "distance": "14.807832589208708",
+        "distance_string": null,
+        "bearing": "northeast",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$43 - $45",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "4a1b4da6-a475-4e58-9662-8fa9d6deca57"
+    }
+]

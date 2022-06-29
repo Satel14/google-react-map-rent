@@ -1,6 +1,7 @@
 import React from 'react'
 import { Box, Flex, SkeletonCircle, SkeletonText } from "@chakra-ui/react";
 import PlaceDetail from './PlaceDetail';
+import Directory from './Directory';
 const List = ({ places, isLoading }) => {
   if (isLoading) return (
     <Flex

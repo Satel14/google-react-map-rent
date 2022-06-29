@@ -1,10 +1,13 @@
 import { Badge, Flex, Image, Text } from "@chakra-ui/react";
 import { Rating } from "@material-ui/lab";
-import React from "react";
-
+import React, {useState} from "react";
+import { Modal, Button, Form } from "react-bootstrap";
 import { IoLocation } from "react-icons/io5";
-
+import Directory from "./Directory";
 const PlaceDetail = ({ place }) => {
+  const [showsecondModal, setshowsecondModal] = useState(false);
+  const handleCloseSecond = () => setshowsecondModal(false)
+  const handleShowSecond = () => setshowsecondModal(true)
   return (
     <Flex
       bg={"whiteAlpha.900"}
@@ -14,7 +17,7 @@ const PlaceDetail = ({ place }) => {
       shadow="lg"
       direction={"column"}
       alignItems={"start"}
-      justifyContent="space-between"  
+      justifyContent="space-between"
     >
       <Flex justifyContent={"space-between"} width="full">
         <Flex
@@ -38,12 +41,11 @@ const PlaceDetail = ({ place }) => {
             >
               {place.name}
             </Text>
-            
+
             <Text fontSize={"sm"} fontWeight={"500"} color={"gray.500"}>
               {place.price}
             </Text>
           </Flex>
-
           {/* Ratings */}
           <Flex alignItems={"center"} width={"full"}>
             <Rating size="small" value={Number(place.rating)} readOnly />
@@ -64,14 +66,13 @@ const PlaceDetail = ({ place }) => {
 
           {/* Ranking */}
           <Text fontSize={"sm"} fontWeight={"500"} color={"gray.400"}>
-          Адрес готеля: {place.location_id.slice(4, 6)}, {place.location_string} 
+            Адрес готеля: {place.location_id.slice(4, 6)}, {place.location_string}
           </Text>
-
           {/* Open status */}
           <Text fontSize={"sm"} fontWeight={"500"} color={"gray.600"}>
             {place.open_now_text}
           </Text>
-          
+
           {/* dietary_restrictions */}
           {place?.dietary_restrictions && (
             <Flex width={"full"} flexWrap={"wrap"}>

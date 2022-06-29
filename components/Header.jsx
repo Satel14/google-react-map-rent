@@ -36,7 +36,7 @@ const Headers = ({ setType, setCoordinates }) => {
     >
       <Flex>
         <Autocomplete onLoad={onLoad} onPlaceChanged={onPlaceChanged}>
-          <InputGroup width={'35vw'} shadow='lg'>
+          <InputGroup width={'25vw'} shadow='lg'>
             <InputRightElement
               pointerEvents={'none'}
               children={<BiSearch color='gray' fontSize={20} />}

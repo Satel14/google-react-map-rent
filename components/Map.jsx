@@ -4,10 +4,10 @@ import React, { useState } from "react";
 import GoogleMapReact from "google-map-react";
 import { IoLocationSharp, IoLocation } from "react-icons/io5";
 import { BiX } from "react-icons/bi";
-import { Marker } from "@react-google-maps/api";
 import { Modal, Button, Form } from "react-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
-const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, service }) => {
+import Directory from "./Directory";
+const Map = ({ coordinates, setCoordinates, setBounds, places, place }) => {
     const [isCard, setIsCard] = useState(false)
     const [cardData, setCardData] = useState(null)
     const [isRent, setIsRent] = useState(false)
@@ -32,7 +32,7 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
     };
     const handleServiceRemove = (index) => {
         const list = [...serviceList];
-        list.splice(index, 1);
+        list.splice(1, 2);
         setServiceList(list);
     };
 
@@ -56,11 +56,10 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
                 }}
                 onClick={(child) => {
                     setCardData(places[child])
-                    setIsRent(false) 
+                    setIsRent(false)
                     setAdded(true)
                 }}
             >
-
 
                 {places?.map((place, i) => (
                     <Box
@@ -188,6 +187,7 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
                 )}
 
             </GoogleMapReact>
+            <Directory/>
             <Flex
                 alignItems={'center'}
                 justifyContent={'center'}
@@ -204,9 +204,9 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
 
                 <div
                     className="d-flex align-items-center justify-content-center"
-                    style={{ marginTop: '-98.2%', zIndex: '101' }}
+                    style={{ marginTop: '-99.9%', zIndex: '101', marginRight: '6%' }}
                 >
-                    <Button variant="primary" onClick={handleShow}>
+                    <Button variant="primary" onClick={handleShow} style={{ backgroundColor: 'white', color: 'black' }}>
                         Здати в аренду
                     </Button>
                 </div>
@@ -233,7 +233,7 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
                                     <Form.Control as="textarea" placeholder='$150-$500' rows={3} />
                                     <Form.Label >Місто: {lat}</Form.Label>
                                     <Form.Control name="city" type="text" id="city" value={singleService.city} onChange={(e) => handleServiceChange(e, index)} as="textarea" placeholder='Kiev Oblast' rows={3} />
-                                    <Form.Label >Адреса готеля: {lng}</Form.Label>
+                                    <Form.Label >Адреса готеля: </Form.Label>
                                     <Form.Control name="adress" id="adress" value={singleService.adress} onChange={(e) => handleServiceChange(e, index)} as="textarea" placeholder='88, Dzvinkove' rows={3} />
                                 </Form.Group>
                             </div>
@@ -269,6 +269,7 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
                         ))}
                 </Modal>
             </Flex>
+
             <Flex
                 bg={"whiteAlpha.900"}
                 px={4}
@@ -283,7 +284,7 @@ const Map = ({ coordinates, setCoordinates, setBounds, places, singleService, se
                     <div style={{ marginTop: '-11%', zIndex: 1, backgroundColor: 'white', border: '2px solid black', width: '22%', padding: '2%' }}
                     >
                         <Image
-                            top={'80.7%'}
+                            top={'82.7%'}
                             direction={'column'}
                             width={'7.7%'}
                             height={'15.6%'}
