@@ -35,7 +35,7 @@ const Headers = ({ setType, setCoordinates }) => {
       zIndex={101}
     >
       <Flex>
-        <Autocomplete onLoad={onLoad} onPlaceChanged={onPlaceChanged}>
+        <Autocomplete >
           <InputGroup width={'25vw'} shadow='lg'>
             <InputRightElement
               pointerEvents={'none'}

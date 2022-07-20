@@ -54,7 +54,7 @@ const Home = () => {
       height={'100vh'}
       maxWidth={'100vw'}
       maxHeight={'100vh'}
-      position={'relative'}
+      position={'fixed'}
     >
       <Head>
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyCWVsv8X_PlKn-Y8nMQhJGLvxA3QKy8MxY"></script>
@@ -71,4 +71,4 @@ const Home = () => {
   )
 }
 
-export default Home;
+export default React.memo(Home);
